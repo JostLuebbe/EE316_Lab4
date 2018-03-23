@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module tb_call_system_behavioral;
+module tb_call_system;
 
     reg clk;
     reg call_button;

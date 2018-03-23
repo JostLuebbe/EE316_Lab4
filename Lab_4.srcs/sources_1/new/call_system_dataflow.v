@@ -7,6 +7,13 @@ module call_system_dataflow(
     output reg light_state
     );
     
+    initial
+    begin
+    
+    light_state = 0;
+    
+    end
+    
     wire next_state;
     
     assign next_state = call_button | ((!cancel_button) & light_state);

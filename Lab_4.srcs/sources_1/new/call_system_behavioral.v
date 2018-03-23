@@ -7,6 +7,13 @@ module call_system_behavioral(
     output reg light_state
     );
     
+    initial
+    begin
+    
+    light_state = 0;
+    
+    end
+    
     reg next_state;
     
     always @(*) begin

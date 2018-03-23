@@ -3,14 +3,14 @@
 Dec 15 2017
 21:07:18
 C:/Vivado Projects/Lab_4/Lab_4.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
-C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_call_system_behavioral.v,1521756846,verilog,,,,tb_call_system_behavioral,,,,,,,,
+C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_call_system_behavioral.v,1521756846,verilog,,,,tb_call_system,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_rising_edge_detector.v,1521828533,verilog,,,,tb_rising_edge_detector,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_time_multiplexing.v,1521829099,verilog,,,,tb_time_multiplexing,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/call_system_behavioral.v,1521673596,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_call_system_behavioral.v,,call_system_behavioral,,,,,,,,
-C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/call_system_dataflow.v,1521756525,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_call_system_behavioral.v,,call_system_dataflow,,,,,,,,
-C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/clk_div_disp.v,1521828873,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/hexto7segment.v,,clk_div_disp,,,,,,,,
+C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/call_system_dataflow.v,1521832656,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_call_system_behavioral.v,,call_system_dataflow,,,,,,,,
+C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/clk_div_disp.v,1521831450,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/hexto7segment.v,,clk_div_disp,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/clkdiv.v,1521760787,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/rising_edge_detector.v,,clkdiv,,,,,,,,
-C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/hexto7segment.v,1521674530,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/time_multiplexing_main.v,,hexto7segment,,,,,,,,
+C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/hexto7segment.v,1521830596,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/time_multiplexing_main.v,,hexto7segment,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/rising_edge_detector.v,1521760667,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_rising_edge_detector.v,,rising_edge_detector,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/time_multiplexing_main.v,1521830084,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/time_mux_state_machine.v,,time_multiplexing_main,,,,,,,,
 C:/Vivado Projects/Lab_4/Lab_4.srcs/sources_1/new/time_mux_state_machine.v,1521675451,verilog,,C:/Vivado Projects/Lab_4/Lab_4.srcs/sim_1/new/tb_time_multiplexing.v,,time_mux_state_machine,,,,,,,,
