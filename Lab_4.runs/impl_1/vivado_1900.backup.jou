@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar 23 18:00:32 2018
+# Process ID: 1900
+# Current directory: C:/Vivado Projects/EE316_Lab4/Lab_4.runs/impl_1
+# Command line: vivado.exe -log rising_edge_detector.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rising_edge_detector.tcl -notrace
+# Log file: C:/Vivado Projects/EE316_Lab4/Lab_4.runs/impl_1/rising_edge_detector.vdi
+# Journal file: C:/Vivado Projects/EE316_Lab4/Lab_4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source rising_edge_detector.tcl -notrace

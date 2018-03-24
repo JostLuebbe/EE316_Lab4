@@ -16,7 +16,7 @@ module call_system_dataflow(
     
     wire next_state;
     
-    assign next_state = call_button | ((!cancel_button) & light_state);
+    assign next_state = call_button || ((!cancel_button) && light_state);
     
     always @( posedge clk) begin
         light_state <= next_state;

@@ -3,12 +3,12 @@
 module clk_div_disp(
     input clk,
     input reset,
-    output slow_clock
+    output slow_clk
 );
     
-    reg [1:0] COUNT = 0; //needs to be changed for simulation vs board
+    reg [1:0] COUNT; //needs to be changed for simulation vs board
     
-    assign slow_clock = COUNT[0];
+    assign slow_clk = COUNT[1];
    
     always @(posedge clk)
         begin

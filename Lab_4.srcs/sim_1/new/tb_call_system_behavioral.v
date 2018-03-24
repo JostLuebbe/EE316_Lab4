@@ -8,8 +8,8 @@ module tb_call_system;
     
     wire light_state;
     
-//    call_system_behavioral ul (
-    call_system_dataflow ul (
+    call_system_behavioral ul (
+//    call_system_dataflow ul (
         .clk(clk),
         .call_button(call_button),
         .cancel_button(cancel_button),
